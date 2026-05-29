@@ -4,6 +4,7 @@
   border: solid;
   border-color: blue;
   padding: 30px;
+  margin-bottom: 30px;
 }
 
 .div2{
@@ -11,7 +12,6 @@
   border: solid;
   border-color: purple;
   background-color: rgb(141, 191, 197);
-  width: 600px;
 }
 
 .div3{
